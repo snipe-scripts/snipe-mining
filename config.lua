@@ -11,7 +11,7 @@ Config.CoreFolderName = "es_extended"  -- es_extended || qb-core
 Config.PlayerLoadedEvent = "esx:playerLoaded" -- esx:playerLoaded || QBCore:Client:OnPlayerLoaded
 Config.PlayerUnloadEvent = "esx:onPlayerLogout" -- esx:onPlayerLogout || QBCore:Client:OnPlayerUnload     
 
-Config.Debug = true -- set to false if you dont want debug messages in console or target zones
+Config.Debug = false -- set to false if you dont want debug messages in console or target zones
 
 Config.AllowUnlimitedMining = true -- set to true if you want players to be able to mine unlimited times at each location
 
